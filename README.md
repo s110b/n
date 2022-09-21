@@ -1,5 +1,19 @@
 # NexT
 
+问题和解决
+根据官方的项目的说明：
+
+这是因为：
+从 Ruby 3.0 开始 webrick 已经不在绑定到 Ruby 中了，请参考链接： Ruby 3.0.0 Released 中的说明。
+
+webrick 需要手动进行添加。
+
+添加的命令为：
+执行报错增加：
+bundle add webrick
+
+
+
 > 精于心，简于形
 
 NexT 是由 [Hexo NexT](https://github.com/iissnan/hexo-theme-next) 移植而来的 Jekyll 主题。<!--commit: f951075d9b739d26b42472431995fa68d08796aa-->
