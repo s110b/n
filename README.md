@@ -11,6 +11,7 @@ webrick 需要手动进行添加。
 添加的命令为：
 执行报错增加：
 bundle add webrick
+bundle exec jekyll serve -H 0.0.0.0
 
 
 
