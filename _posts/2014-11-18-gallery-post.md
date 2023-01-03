@@ -4,10 +4,9 @@ title: Gallery Post
 date: 2014-11-18 15:45:20
 category: Photo
 photos:
-- http://ww1.sinaimg.cn/mw690/81b78497jw1emfgwkasznj21hc0u0qb7.jpg
-- http://ww3.sinaimg.cn/mw690/81b78497jw1emfgwjrh2pj21hc0u01g3.jpg
-- http://ww2.sinaimg.cn/mw690/81b78497jw1emfgwil5xkj21hc0u0tpm.jpg
-- http://ww3.sinaimg.cn/mw690/81b78497jw1emfgvcdn25j21hc0u0qpa.jpg
+- https://user-images.githubusercontent.com/111761629/209134081-55e12c96-570a-4956-8f11-a3769e4dc4fa.jpg
+- https://user-images.githubusercontent.com/111761629/209134134-35e5f03e-6683-49ad-97b0-ab89c30750c0.png
+- https://user-images.githubusercontent.com/111761629/209134172-50ae4919-e55a-44a0-8b61-933a71dea247.jpg
 tags:
 - consectetur
 description: Gallery Post Test. 测试图片类文章的显示。
