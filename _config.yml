@@ -2,20 +2,20 @@
 # Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
-destination: ./build
+
 # Site
-title: NexT
-subtitle:
-description:
-author: John Doe
+title: 西去无狗
+subtitle: 西去无狗
+description: 西去无狗
+author: 西去无狗
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url:
-baseurl: /n
+baseurl:
 permalink: pretty
 
 # Pagination
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "xiquwugou, fengaili"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -152,8 +152,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -736,4 +736,3 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
-repository: filipbartek/filipbartek.github.io
